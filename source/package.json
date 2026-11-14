@@ -1,0 +1,11 @@
+{
+  "name": "afterglow-city",
+  "private": true,
+  "type": "module",
+  "description": "A procedural city at dusk you can fly through, rendered with WebGPU in a single HTML file",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:min": "node build.mjs --min"
+  },
+  "license": "MIT"
+}
